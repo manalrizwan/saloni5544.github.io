@@ -3,10 +3,7 @@
     background-image: url("https://s-media-cache-ak0.pinimg.com/736x/f8/c6/46/f8c646a8b27f434662e64fbc1db40d0a.jpg");
     background-repeat: no-repeat;
     background-position: center;
-}
-<html>
-<head>
-<style>
 
-h1<center>
- 
+h1 {
+    text-align: center;
+}
